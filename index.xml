@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kael Barton</title>
+    <link>https://kaelb.github.io/</link>
+    <description>Recent content on Kael Barton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2019 09:16:36 -0700</lastBuildDate>
+    
+	<atom:link href="https://kaelb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>*Kanye West&#39;s* Only One</title>
+      <link>https://kaelb.github.io/post/only-one/</link>
+      <pubDate>Mon, 15 Jul 2019 09:16:36 -0700</pubDate>
+      
+      <guid>https://kaelb.github.io/post/only-one/</guid>
+      <description>Implemented custom cloud shaders to complement dramatic matte paintings while remaining performant on mobile devices. Programmed extensive custom Unity editor tools to allow artists full control of cloud placement, lighting, and behavior.</description>
+    </item>
+    
+    <item>
+      <title>Chorus</title>
+      <link>https://kaelb.github.io/post/chorus/</link>
+      <pubDate>Sun, 14 Jul 2019 21:27:23 -0700</pubDate>
+      
+      <guid>https://kaelb.github.io/post/chorus/</guid>
+      <description>Official Selection: Sundance New Frontier 2018
+Official Selection: SXSW Virtual Cinema 2018
+Winner: Best Playful VR Experience – World VR Forum 2018
+Winner: Best Music VR Experience – Raindance Film Festival 2018
+Developed many custom shaders to evoke &amp;lsquo;80s sci-fi effects while maintaining high performance. Designed systems to dynamically generate electrical arcs, trailing wakes in water, and to efficiently render and control flocks of flying &amp;ldquo;spirit&amp;rdquo; creatures.</description>
+    </item>
+    
+  </channel>
+</rss>

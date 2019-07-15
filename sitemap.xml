@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kaelb.github.io/post/only-one/</loc>
+    <lastmod>2019-07-15T09:16:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaelb.github.io/</loc>
+    <lastmod>2019-07-15T09:16:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaelb.github.io/post/</loc>
+    <lastmod>2019-07-15T09:16:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaelb.github.io/post/chorus/</loc>
+    <lastmod>2019-07-14T21:27:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaelb.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaelb.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
