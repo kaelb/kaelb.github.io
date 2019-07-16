@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kael Barton</title>
-    <link>https://kaelb.github.io/</link>
+    <link>https://kaelbarton.com/</link>
     <description>Recent content on Kael Barton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jul 2019 10:49:51 -0700</lastBuildDate>
     
-	<atom:link href="https://kaelb.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaelbarton.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beach Body Bros</title>
-      <link>https://kaelb.github.io/post/beach-body-bros/</link>
+      <link>https://kaelbarton.com/post/beach-body-bros/</link>
       <pubDate>Mon, 15 Jul 2019 10:49:51 -0700</pubDate>
       
-      <guid>https://kaelb.github.io/post/beach-body-bros/</guid>
+      <guid>https://kaelbarton.com/post/beach-body-bros/</guid>
       <description>Developed custom shaders to create geometry mirroring effect and morphing character effect.
 Coming soon!</description>
     </item>
     
     <item>
       <title>DIY.org</title>
-      <link>https://kaelb.github.io/post/diy/</link>
+      <link>https://kaelbarton.com/post/diy/</link>
       <pubDate>Mon, 15 Jul 2019 10:40:05 -0700</pubDate>
       
-      <guid>https://kaelb.github.io/post/diy/</guid>
+      <guid>https://kaelbarton.com/post/diy/</guid>
       <description>As a web developer at DIY.org, implemented a redesign of the site&amp;rsquo;s skill viewer, a new marketplace checkout, and added new back-end capabilities.</description>
     </item>
     
     <item>
       <title>Tonandi</title>
-      <link>https://kaelb.github.io/post/tonandi/</link>
+      <link>https://kaelbarton.com/post/tonandi/</link>
       <pubDate>Mon, 15 Jul 2019 10:18:53 -0700</pubDate>
       
-      <guid>https://kaelb.github.io/post/tonandi/</guid>
+      <guid>https://kaelbarton.com/post/tonandi/</guid>
       <description>As part of Magic Leap&amp;rsquo;s Imagination Factory team, adapted ideas from major artists into compelling AR concepts. Developed select concepts into polished prototypes for Magic Leap devices, including the prototype for the Sigur Rós experience Tonandi.</description>
     </item>
     
     <item>
       <title>*Kanye West&#39;s* Only One</title>
-      <link>https://kaelb.github.io/post/only-one/</link>
+      <link>https://kaelbarton.com/post/only-one/</link>
       <pubDate>Mon, 15 Jul 2019 09:16:36 -0700</pubDate>
       
-      <guid>https://kaelb.github.io/post/only-one/</guid>
+      <guid>https://kaelbarton.com/post/only-one/</guid>
       <description>Implemented custom cloud shaders to complement dramatic matte paintings while remaining performant on mobile devices. Programmed extensive custom Unity editor tools to allow artists full control of cloud placement, lighting, and behavior.</description>
     </item>
     
     <item>
       <title>Chorus</title>
-      <link>https://kaelb.github.io/post/chorus/</link>
+      <link>https://kaelbarton.com/post/chorus/</link>
       <pubDate>Sun, 14 Jul 2019 21:27:23 -0700</pubDate>
       
-      <guid>https://kaelb.github.io/post/chorus/</guid>
+      <guid>https://kaelbarton.com/post/chorus/</guid>
       <description>Official Selection: Sundance New Frontier 2018
 Official Selection: SXSW Virtual Cinema 2018
 Winner: Best Playful VR Experience – World VR Forum 2018
